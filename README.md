@@ -1,4 +1,4 @@
 ## Tic Tac Toe with JavaScript
 
 Github: https://github.com/geekhtv
-Web: http://geekh.site/
+Web: http://geekh.site/tateti/
